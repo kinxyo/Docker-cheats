@@ -1,16 +1,6 @@
-# Docker-cheats
+# Docker
 
-## Responsibilities
-
-1. Facilitate Collobration
-2. Automate as much as possible
-3. Build infrastructure & mangement it
-4. Regularly monitor benchmarks.
-5. Data management
-7. Assure Quality
-6. Security
-
-## Docker
+## Theory
 
 ### Why
 
@@ -57,6 +47,8 @@ So in hindsight,
 $running image = container = app$
 
 not literally, but loosely.
+
+## Practice
 
 ### Basic Commands
 
